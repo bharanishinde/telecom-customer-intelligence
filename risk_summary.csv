@@ -1,0 +1,4 @@
+Risk_Level,Customer_Count,Average_Churn_Probability,Monthly_Charges,Expected_Revenue_At_Risk
+High Risk,334,0.77,25609.05,19693.36
+Low Risk,770,0.1,42727.55,5023.56
+Medium Risk,305,0.45,21964.6,9976.27
